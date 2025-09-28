@@ -585,3 +585,8 @@ p {
         transform: translateY(0);
     }
 }
+.lll {
+    color: #00d4ff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
